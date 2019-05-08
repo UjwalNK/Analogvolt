@@ -7,6 +7,7 @@ This project helps you set the required voltage to a given analog pin on the Ard
 For minor fixes of code and documentation, please go ahead and submit a pull request. 
 Working on them is a great way to contribute to the large Arduino community. 
 Larger changes (rewriting parts of existing code from scratch, adding new functions & including new libraries) must be discussed by opening an issue first.
+Known set of issues and bugs are listed down in the _issues.txt_ file.
 
 # Who can contribute?
 Any one with C++ programming experience and Arduino.
